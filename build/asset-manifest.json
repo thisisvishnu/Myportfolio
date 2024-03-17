@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Responisve-Personal-portfolio-Website/static/css/main.91792864.css",
+    "main.js": "/Responisve-Personal-portfolio-Website/static/js/main.7116100b.js",
+    "static/media/profile.jpg": "/Responisve-Personal-portfolio-Website/static/media/profile.e00e4f49e88948ff11b3.jpg",
+    "static/media/project3.png": "/Responisve-Personal-portfolio-Website/static/media/project3.484e65486598ae80670c.png",
+    "static/media/resumefor-portfolio.png": "/Responisve-Personal-portfolio-Website/static/media/resumefor-portfolio.07820c24aa9f9de02b17.png",
+    "static/media/project1.png": "/Responisve-Personal-portfolio-Website/static/media/project1.f1d1a519e4c0e76df421.png",
+    "static/media/project2.png": "/Responisve-Personal-portfolio-Website/static/media/project2.16f9a68ef0c823d538e2.png",
+    "index.html": "/Responisve-Personal-portfolio-Website/index.html",
+    "main.91792864.css.map": "/Responisve-Personal-portfolio-Website/static/css/main.91792864.css.map",
+    "main.7116100b.js.map": "/Responisve-Personal-portfolio-Website/static/js/main.7116100b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91792864.css",
+    "static/js/main.7116100b.js"
+  ]
+}
