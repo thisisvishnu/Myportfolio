@@ -1,4 +1,4 @@
-import aboutimg from "../assets/profile.jpg";
+import resumeimg from "../assets/resumefor-portfolio.png";
 
 export default function Resume() {
   const config={
@@ -6,8 +6,8 @@ export default function Resume() {
   }
   return (
     <section id='resume'className="pb-5 flex flex-col md:flex-row bg-primary">
-      <div className="md:w-1/3 px-5 py-5 flex justify-center">
-        <img className="w-[300px]" src={aboutimg} alt="" />
+      <div className="md:w-1/3 px-5 py-5 flex justify-center md:justify-end">
+        <img className="w-[300px]" src={resumeimg} alt="" />
       </div>
       <div className=" text-white md:w-1/2  flex justify-center">
         <div className="flex flex-col justify-center">

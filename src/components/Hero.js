@@ -24,7 +24,7 @@ export default function Hero(){
                 <a className='pt-2 hover:text-sky-400'target='_blank' href={config.social.github}><AiOutlineGithub/></a>
             </div>
         </div>
-        <img className=' md:w-1/4 pt-2 ' src={profile }></img>
+        <img className=' md:w-1/4 pt-2 rounded-full ' src={profile }></img>
         
     </section>
 }

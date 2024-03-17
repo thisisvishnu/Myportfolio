@@ -4,7 +4,7 @@ import aboutimg from '../assets/profile.jpg'
 export default function About(){
     return <section className=' flex flex-col md:flex-row bg-primary'id='about'>
         <div className='md:w-1/3 px-5 py-5'>
-            <img src={aboutimg} alt=''/>
+            <img className='rounded-full' src={aboutimg} alt=''/>
         </div>
         <div className=' text-white md:w-1/2  flex justify-center'>
             <div className='flex flex-col justify-center'>
